@@ -1,2 +1,3 @@
+results/activations filter=lfs diff=lfs merge=lfs -text
 vectors/without_norm_vectors/all_diff_activations_none_jail.pt filter=lfs diff=lfs merge=lfs -text
 results/activations/all_activations_none_jail.pt filter=lfs diff=lfs merge=lfs -text
