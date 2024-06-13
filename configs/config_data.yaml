@@ -1,0 +1,7 @@
+general:
+  prompt_bos_eos:
+  - '[INST]'    # BOS_Question 
+  - '[/INST]'   # EOS_Question 
+  - ""          # BOS_Answer
+  - ""          # EOS_Answer
+  seed: 42

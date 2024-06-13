@@ -1,0 +1,8 @@
+args:
+  time: 24:00:00                            # Wall clock time limit.
+  ntasks: 8                                 # Number of tasks to be launched.
+  partition: a100                           # Request a specific queue for the resource allocation.
+  gres: gpu:1                               # Number of gpus: gpu:3
+  export: NONE
+  
+  job: ./scripts/run.sh

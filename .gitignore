@@ -1,0 +1,19 @@
+# Environments
+venv
+env
+.venv
+.env
+
+# .
+**__pycache__**
+*.o*
+wandb/
+
+
+# files
+data/*
+
+# results
+results/transferability/probabilities*
+
+.DS_Store

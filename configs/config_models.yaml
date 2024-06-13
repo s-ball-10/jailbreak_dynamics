@@ -1,0 +1,12 @@
+general:
+    model_path: lmsys/vicuna-13b-v1.5
+    api_token: <YOUR TOKEN>
+
+    max_new_tokens: 250
+
+tokenizer:
+    model_name: lmsys/vicuna-13b-v1.5
+
+
+
+
